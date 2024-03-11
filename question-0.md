@@ -63,7 +63,7 @@ order by 2 desc, 1, 3
 
 ## Lessons Learned
 
-* The condition in a ``JOIN`` statement should not only about equal comparison.
+* The filtering process in a ``JOIN`` statement can be achived by the following operators ``BETWEEN``, ``IN``, ``LIKE``, ``EXISTS``, ``ANY``, ``IS NULL`` and ``IS DISTINCT FROM``.
 
 ## References
 
